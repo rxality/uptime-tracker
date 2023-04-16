@@ -10,6 +10,8 @@ This extension shows how long you have been on Visual Studio Code. I'm open to a
 
 - Run `npm install --only=dev` to install required dependencies for modifying the source code. [Read the docs here.](https://code.visualstudio.com/api)
 
+Downloadable on the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=rxality.uptime)
+
 ## Known Issues
 
 - None at this current time.
