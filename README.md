@@ -1,6 +1,6 @@
 ## About
 
-This is my first extension for Visual Studio Code. I created this simple plugin because I could not find it as an already existing one (surprisingly). This is meant to be simple and straightforward, it can be used as bragging rights to your friends or just something to remind you that you need to take a break from your project.
+A lightweight and simple plugin for tracking your uptime with Visual Studio Code, it can be used as bragging rights to your friends or just something to remind you that you need to take a break from your project.
 
 ## Features
 
